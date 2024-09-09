@@ -21,12 +21,12 @@ const members = [
     name: "Akintunde Abdul-Quadri",
   },
   {
-    id: 4476,
+    id: 476,
     image: "",
     name: "Esther Raji",
   },
   {
-    id: 4476,
+    id: 40076,
     image: "",
     name: "Okoro Miracle Chidera",
   },
