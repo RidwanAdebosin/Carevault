@@ -14,6 +14,7 @@ const AboutUs = () => {
       <Goals />
       <OurTeam />
       <TeamMembers />
+
       <ReachUs />
       <Footer />
     </>
