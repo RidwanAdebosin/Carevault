@@ -1,7 +1,7 @@
 import "../AuthCss/ResetPassword.css";
 import { useNavigate } from "react-router-dom";
 
-import CareVault from "../../assets/CareVault.png";
+import CareVault from "../assets/CareVault.png";
 
 const ResetPassword = () => {
   const nav = useNavigate();
