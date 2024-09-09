@@ -25,6 +25,7 @@
     & p {
       max-inline-size: 450px;
       margin-block-start: -30px;
+      color: white;
     }
 
     & .hero-btn {
