@@ -1,10 +1,10 @@
-import "./Ourstory.css";
+import "./OurStory.css";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Story from "../../../assets//story.png";
 
-const Ourstory = () => {
+const OurStory = () => {
   useEffect(() => {
     AOS.init({ duration: 2000 });
   }, []);
@@ -28,4 +28,4 @@ const Ourstory = () => {
   );
 };
 
-export default Ourstory;
+export default OurStory;

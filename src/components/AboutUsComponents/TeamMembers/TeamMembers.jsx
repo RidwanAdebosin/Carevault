@@ -5,28 +5,28 @@ import "aos/dist/aos.css";
 
 const members = [
   {
-    id: 118,
+    id: 12562318,
     image: "",
     name: "Mustapha Sheu",
   },
   {
-    id: 9372,
+    id: 93778352,
     image:
       "https://media.licdn.com/dms/image/v2/D4D03AQG9dE_TxzyeeA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1711295259490?e=1730937600&v=beta&t=YTGzL9A2R89eEoDQU2uwYdoAK6XIfz6E-vi4F2W4lhw",
     name: "Ridwan Adebosin",
   },
   {
-    id: 4476,
+    id: 4905476,
     image: "",
     name: "Akintunde Abdul-Quadri",
   },
   {
-    id: 4476,
+    id: 476000004,
     image: "",
     name: "Esther Raji",
   },
   {
-    id: 4476,
+    id: 40444076,
     image: "",
     name: "Okoro Miracle Chidera",
   },
