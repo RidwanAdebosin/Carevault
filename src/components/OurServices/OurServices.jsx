@@ -5,19 +5,19 @@ import "aos/dist/aos.css";
 
 export const services = [
   {
-    id: 118836,
+    id: 16,
     image:
       "https://www.beyondceliac.org/wp-content/uploads/2021/02/celiac-disease-covid-vaccine-768x512.png",
     text: "CareVault makes patients to have access to the medical records kept by to anytime and anywhere. ",
   },
   {
-    id: 933372,
+    id: 93,
     image:
       "https://t4.ftcdn.net/jpg/01/22/55/81/240_F_122558130_bmc27X1wYDEFxPZPEu8isc0ilwLMmZFD.jpg",
     text: "CareVault makes patients medical records more secured in order to prevent any misconduct to the patient’s medical record.",
   },
   {
-    id: 499476,
+    id: 4006,
     image:
       "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/9721/live/6309d680-3e23-11ed-9ae9-959994b8a64c.jpg.webp",
     text: "CareVault helps patients to sort out any problem concerning their medical record in time of need.",
