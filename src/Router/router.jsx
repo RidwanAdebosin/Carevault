@@ -77,41 +77,41 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    element: <DashBoardLayout/>,
-    children:[
+    element: <DashBoardLayout />,
+    children: [
       {
-        path:"/dashBoard",
-        element:<DashBoard/>
+        path: "/dashBoard",
+        element: <DashBoard />,
       },
       {
-        path:"/records",
-        element:<Records/>
+        path: "/records",
+        element: <Records />,
       },
       {
-        path:"/uploadImage",
-        element:<ImageUpload/>
+        path: "/uploadImage",
+        element: <ImageUpload />,
       },
       {
-        path:"/uploadPdf",
-        element:<PdfUpload/>
+        path: "/uploadPdf",
+        element: <PdfUpload />,
       },
       {
-        path:"uploadManual",
-        element:<ManualUpload/>
-      }
-    ]
+        path: "uploadManual",
+        element: <ManualUpload />,
+      },
+    ],
   },
   {
-    element:<AdminLayout/>,
-    children:[
+    element: <AdminLayout />,
+    children: [
       {
-        path:"adminDashBoard",
-        element:<AdminDashBoard/>
+        path: "adminDashBoard",
+        element: <AdminDashBoard />,
       },
       {
-        path:"adminRecords",
-        element:<AdminRecords/>
-      }
-    ]
-  }
+        path: "adminRecords",
+        element: <AdminRecords />,
+      },
+    ],
+  },
 ]);
